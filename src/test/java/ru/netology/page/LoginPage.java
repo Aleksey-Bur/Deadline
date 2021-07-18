@@ -37,5 +37,4 @@ public class LoginPage {
         loginField.shouldBe(readonly);
         loginButton.shouldBe(hidden);
     }
-
 }
